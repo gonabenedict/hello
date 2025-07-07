@@ -5,3 +5,9 @@ print("hello world3")
 ///hello
 
 ///trial
+
+ben = input("Enter your name: ")
+print(f"Hello, {ben}!")
+
+george = input("Enter your name: ")
+print(f"Hello, {george}!")  
